@@ -7,7 +7,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
 
 /**
- *@author Mark老师   享学课堂 https://enjoy.ke.qq.com 
+ *@author yanghh yanghh
  *
  *类说明：遍历指定目录（含子目录）找寻指定类型文件
  */
@@ -23,7 +23,7 @@ public class FindDirsFiles extends RecursiveAction{
         try {
             // 用一个 ForkJoinPool 实例调度总任务
             ForkJoinPool pool = new ForkJoinPool();
-            FindDirsFiles task = new FindDirsFiles(new File("F:/"));
+            FindDirsFiles task = new FindDirsFiles(new File("E:\\file"));
 
             pool.execute(task);//异步调用
 

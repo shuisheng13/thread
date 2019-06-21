@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af1f2594-7c83-4933-b12c-ac86c9112ce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang_2_6_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vip-concurrent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/DaemonThread$UseThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/DaemonThread$UseThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/DaemonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/DaemonThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread$UseCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread$UseCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread$UseRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread$UseRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/NewThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/OnlyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/OnlyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock$ThreadNotSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock$ThreadNotSleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock$ThreadSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock$ThreadSleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/SleepLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun$ThreadRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun$ThreadRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/StartAndRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseJoin$JumpQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseJoin$JumpQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal$TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal$TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/UseThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPoolTest$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPoolTest$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/DBPoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/SqlConnectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/pool/SqlConnectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndRunnable$UseRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndRunnable$UseRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndThread$UseThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndThread$UseThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/EndThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/HasInterrputException$UseThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/HasInterrputException$UseThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/HasInterrputException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/safeend/HasInterrputException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$Instance2Syn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$Instance2Syn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$InstanceSyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$InstanceSyn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$SynClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst$SynClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynClzAndInst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynTest$TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynTest$TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/syn/SynTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/vola/VolatileUnsafe$VolatileVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/vola/VolatileUnsafe$VolatileVar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/vola/VolatileUnsafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/vola/VolatileUnsafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/Express.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/Express.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN$CheckKm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN$CheckKm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN$CheckSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN$CheckSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch1/wn/TestWN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/FindDirsFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/FindDirsFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/MakeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/MakeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumArray$SumTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumArray$SumTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumNormal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/forkjoin/sum/SumNormal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/future/UseFuture$UseCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/future/UseFuture$UseCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/future/UseFuture.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/future/UseFuture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$BusiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$BusiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$InitThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch$InitThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCountDownLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier$CollectThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier$CollectThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier$SubThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier$SubThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseCyclicBarrier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/UseExchange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/AppTest$BusiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/AppTest$BusiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/DBPoolSemaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/DBPoolSemaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/SqlConnectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch2/tools/semaphore/SqlConnectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/AtomicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/AtomicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicReference$UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicReference$UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/UseAtomicStampedReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch3/answer/HalfAtomicInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch3/answer/HalfAtomicInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/LockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/LockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/SelfLock$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/SelfLock$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/SelfLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/SelfLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TestMyLock$1Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TestMyLock$1Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TestMyLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TestMyLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TrinityLock$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TrinityLock$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TrinityLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/aqs/TrinityLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/ExpressCond.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/ExpressCond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond$CheckKm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond$CheckKm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond$CheckSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond$CheckSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/condition/TestCond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp$GetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp$GetThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp$SetThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp$SetThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/BusiApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/GoodsInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/GoodsInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/UseRwLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/UseRwLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/UseSyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/rw/UseSyn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/template/SendCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/template/SendCustom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch4/template/SendSms.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch4/template/SendSms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/ChmDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/ChmDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/TestMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/TestMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/TestMap18.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/TestMap18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bitwise/IntToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bitwise/IntToBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bitwise/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bitwise/Permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/FetchOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/FetchOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/ItemVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/ItemVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/PutOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/PutOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch5/bq/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool$CallWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool$CallWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/UseThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/comps/CompletionCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/comps/CompletionCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/comps/WorkTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/comps/WorkTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/MyThreadPool2$WorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/MyThreadPool2$WorkThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/MyThreadPool2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/MyThreadPool2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/TestMyThreadPool$MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/TestMyThreadPool$MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/TestMyThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/mypool/TestMyThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduleWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduleWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduleWorkerTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduleWorkerTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduledCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch6/schd/ScheduledCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/NormalDeadLock$TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/NormalDeadLock$TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/NormalDeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/NormalDeadLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/PaperCon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/PaperCon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/InstanceLazy$ValHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/InstanceLazy$ValHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/InstanceLazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/InstanceLazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleDcl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleDcl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleEHan.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleEHan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleInit$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleInit$InstanceHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/dcl/SingleInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/performance/FinenessLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/performance/FinenessLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/performance/ReduceLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/performance/ReduceLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinalRef$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinalRef$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinalRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutableFinalRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutetableToo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/ImmutetableToo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/StatelessClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/StatelessClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/UnsafePublish.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/safeclass/UnsafePublish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/PayCompany$TransferThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/PayCompany$TransferThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/PayCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/PayCompany.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/UserAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/UserAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/ITransfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/ITransfer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/SafeOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/SafeOperate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/SafeOperateToo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/SafeOperateToo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/TrasnferAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch7/tranfer/service/TrasnferAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser$FetchJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser$FetchJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser$ProcesserHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser$ProcesserHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/CheckJobProcesser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool$JobPoolHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool$JobPoolHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool$PendingTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool$PendingTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/PendingJobPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/AppTest$QueryResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/AppTest$QueryResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/demo/MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/ITaskProcesser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/ITaskProcesser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/JobInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/JobInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/TaskResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/TaskResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/TaskResultType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8a/vo/TaskResultType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb$MakeDocTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb$MakeDocTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb$UploadDocTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb$UploadDocTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/RpcModeWeb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/SingleWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/SingleWeb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/Consts.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/Consts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/CreatePendingDocs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/CreatePendingDocs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/EncryptUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/EncryptUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_Busi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_Busi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_QuestionBank$UpdateBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_QuestionBank$UpdateBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_QuestionBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/assist/SL_QuestionBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/ProduceDocService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/ProduceDocService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/ParallerQstService$QuestionTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/ParallerQstService$QuestionTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/ParallerQstService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/ParallerQstService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/SingleQstService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/service/question/SingleQstService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/QuestionInCacheVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/QuestionInCacheVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/QuestionInDBVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/QuestionInDBVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/SrcDocVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/SrcDocVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/TaskResultVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch8b/vo/TaskResultVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch9/AsIfSerial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch9/AsIfSerial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch9/ControlDep.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch9/ControlDep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/Vola.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/Vola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/VolaLikeSyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/VolaLikeSyn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/VolaSemanteme.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/ch9/vola/VolaSemanteme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/xiangxue/tools/SleepTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/xiangxue/tools/SleepTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/DaemonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/NewThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/NewThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/OnlyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/OnlyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/SleepLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/SleepLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/StartAndRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/StartAndRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/UseJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/UseJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/UseThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/UseThreadLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/DBPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/DBPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/DBPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/DBPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/SqlConnectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/pool/SqlConnectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/HasInterrputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/HasInterrputException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynClzAndInst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynClzAndInst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/vola/VolatileUnsafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/vola/VolatileUnsafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/wn/Express.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/wn/Express.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch1/wn/TestWN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch1/wn/TestWN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/FindDirsFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/FindDirsFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/future/UseFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/future/UseFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseCountDownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseCyclicBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseCyclicBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/DBPoolSemaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/DBPoolSemaphore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/SqlConnectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/SqlConnectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch3/AtomicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch3/AtomicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicStampedReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch3/UseAtomicStampedReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch3/answer/HalfAtomicInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch3/answer/HalfAtomicInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/SelfLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/SelfLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/TestMyLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/TestMyLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/TrinityLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/TrinityLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/condition/ExpressCond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/condition/ExpressCond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/condition/TestCond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/condition/TestCond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/BusiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/BusiApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/GoodsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/GoodsInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/UseRwLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/UseRwLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/UseSyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch4/rw/UseSyn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bitwise/IntToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bitwise/IntToBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bitwise/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bitwise/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/FetchOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/FetchOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/ItemVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/ItemVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/PutOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/PutOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch5/bq/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/UseThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/UseThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/comps/CompletionCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/comps/CompletionCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/comps/WorkTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/comps/WorkTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/mypool/MyThreadPool2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/mypool/MyThreadPool2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/mypool/TestMyThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/mypool/TestMyThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduleWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduleWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduleWorkerTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduleWorkerTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduledCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch6/schd/ScheduledCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/NormalDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/NormalDeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/InstanceLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/InstanceLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleDcl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleDcl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleEHan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleEHan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/performance/FinenessLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/performance/FinenessLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/performance/ReduceLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/performance/ReduceLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutableFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutableFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutableFinalRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutableFinalRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutetableToo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/ImmutetableToo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/StatelessClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/StatelessClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/UnsafePublish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/safeclass/UnsafePublish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/PayCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/PayCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/ITransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/ITransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/SafeOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/SafeOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/SafeOperateToo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/SafeOperateToo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/TrasnferAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch7/tranfer/service/TrasnferAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/CheckJobProcesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/CheckJobProcesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/PendingJobPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/PendingJobPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/demo/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/demo/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/demo/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/demo/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/ITaskProcesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/ITaskProcesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/JobInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/JobInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/TaskResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/TaskResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/TaskResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8a/vo/TaskResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/RpcModeWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/RpcModeWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/SingleWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/SingleWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/Consts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/Consts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/CreatePendingDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/CreatePendingDocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/EncryptUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/EncryptUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_Busi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_Busi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_QuestionBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_QuestionBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/ProduceDocService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/ProduceDocService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/ParallerQstService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/ParallerQstService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/SingleQstService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/SingleQstService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/QuestionInCacheVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/QuestionInCacheVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/QuestionInDBVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/QuestionInDBVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/SrcDocVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/SrcDocVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/TaskResultVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/ch8b/vo/TaskResultVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xiangxue/tools/SleepTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xiangxue/tools/SleepTools.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/CreatePendingDocs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/EncryptUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="177" column="62" selection-start-line="177" selection-start-column="51" selection-end-line="177" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_Busi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_QuestionBank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/ControlDep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/AsIfSerial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/Vola.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/VolaLikeSyn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/VolaSemanteme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Mark老师   享学课堂</find>
+      <find>https://enjoy.ke.qq.com</find>
+      <find>compute</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>yanghh</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangxue/ch1/UseThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/FindDirsFiles.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="520" />
+    <option name="width" value="960" />
+    <option name="height" value="260" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+              <item name="pool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch7" type="462c0819:PsiDirectoryNode" />
+              <item name="dcl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch7" type="462c0819:PsiDirectoryNode" />
+              <item name="safeclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8a" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8b" type="462c0819:PsiDirectoryNode" />
+              <item name="assist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8b" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip-concurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangxue" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8b" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561110643077" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RpcModeWeb">
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.ch8a.demo.AppTest" />
+      <module name="vip-concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.ch8a.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtomicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.ch3.AtomicArray" />
+      <module name="vip-concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcModeWeb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.ch8b.RpcModeWeb" />
+      <module name="vip-concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.ch8b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleWeb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.ch8b.SingleWeb" />
+      <module name="vip-concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.ch8b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangxue.ch2.forkjoin.sum.SumArray" />
+      <module name="vip-concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangxue.ch2.forkjoin.sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RpcModeWeb" />
+        <item itemvalue="Application.SingleWeb" />
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="Application.AtomicArray" />
+        <item itemvalue="Application.SumArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af1f2594-7c83-4933-b12c-ac86c9112ce6" name="Default Changelist" comment="" />
+      <created>1561108103678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561108103678</updated>
+      <workItem from="1561108104888" duration="2534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2534000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21149674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1778742" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/syn/SynTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/safeend/EndThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/pool/DBPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/UseThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="e#198#294#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch1/UseJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/RecursiveAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="164" column="22" selection-start-line="164" selection-start-column="22" selection-end-line="164" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2626" column="16" selection-start-line="2626" selection-start-column="16" selection-end-line="2626" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/sum/SumNormal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/future/UseFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseExchange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/tools/UseCyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-583">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/DBPoolSemaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/tools/semaphore/SqlConnectImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/FindDirsFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="61" column="64" lean-forward="true" selection-start-line="61" selection-start-column="64" selection-end-line="61" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/sum/MakeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch2/forkjoin/sum/SumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch3/AtomicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/SelfLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch4/aqs/TestMyLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/InstanceLazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch7/dcl/SingleInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch7/performance/FinenessLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch7/PaperCon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch7/NormalDeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8a/demo/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/tools/SleepTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/SingleWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/RpcModeWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/Consts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/CreatePendingDocs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/EncryptUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="177" column="62" selection-start-line="177" selection-start-column="51" selection-end-line="177" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_QuestionBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/ControlDep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/AsIfSerial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/Vola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/VolaLikeSyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch9/vola/VolaSemanteme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/assist/SL_Busi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangxue/ch8b/service/question/BaseQuestionProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vip-concurrent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang-2.6-javadoc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
